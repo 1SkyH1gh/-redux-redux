@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="012532e9-c9cc-4493-8a32-6130114913e7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RQwKUcT55TRnfHlMtgf2af7PuI" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../typesafetest" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="012532e9-c9cc-4493-8a32-6130114913e7" name="Default Changelist" comment="" />
+      <created>1569612563404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569612563404</updated>
+      <workItem from="1569612570690" duration="602000" />
+      <workItem from="1569620335653" duration="1358000" />
+      <workItem from="1569623297543" duration="1224000" />
+      <workItem from="1569625054610" duration="596000" />
+      <workItem from="1569681992899" duration="1034000" />
+      <workItem from="1569684100390" duration="599000" />
+      <workItem from="1569686045565" duration="1902000" />
+      <workItem from="1569689028727" duration="92000" />
+      <workItem from="1569697212310" duration="1233000" />
+      <workItem from="1569699069258" duration="1690000" />
+      <workItem from="1569701051710" duration="1136000" />
+      <workItem from="1569702368338" duration="1541000" />
+      <workItem from="1569704248278" duration="1257000" />
+      <workItem from="1569712763675" duration="736000" />
+      <workItem from="1569714719278" duration="1689000" />
+      <workItem from="1569716631111" duration="999000" />
+      <workItem from="1569718452130" duration="720000" />
+      <workItem from="1569768519412" duration="112000" />
+      <workItem from="1569770293056" duration="1834000" />
+      <workItem from="1569772447572" duration="1689000" />
+      <workItem from="1569774504395" duration="597000" />
+      <workItem from="1569776909523" duration="1053000" />
+      <workItem from="1569779457038" duration="1249000" />
+      <workItem from="1569782320790" duration="1061000" />
+      <workItem from="1569784121836" duration="1703000" />
+      <workItem from="1569786016620" duration="594000" />
+      <workItem from="1569787802352" duration="599000" />
+      <workItem from="1569790316959" duration="1316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
